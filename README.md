@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40%" width="40%" />
+          
+           
 
 <!--
 **BrunoVieira1/BrunoVieira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
