@@ -1,6 +1,12 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40%" width="40%" />
-          
-           
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40%" width="40%"/>
+<h1>
+                    Minhas Redes
+</h1>
+<h2>
+                    instagram: @bbrunovcorrea
+</h2>
+     
 
 <!--
 **BrunoVieira1/BrunoVieira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
