@@ -1,6 +1,6 @@
 [![Bruno GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoVieira1&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Bruno GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoVieira1&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40%" width="40%"/>
+<img src="https://i.gifer.com/J4Qb.gif" height="40%" width="40%"/>
 <h1>
                     Minhas Redes
 </h1>
