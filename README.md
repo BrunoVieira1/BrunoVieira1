@@ -1,6 +1,10 @@
 [![Bruno GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoVieira1&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Bruno GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoVieira1&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img src="https://i.gifer.com/J4Qb.gif" height="40%" width="40%"/>
+<div allign="center">
+  
+![gif](https://github.com/BrunoVieira1/BrunoVieira1/assets/133697267/03546f2e-a694-49a2-80f2-7793e5684a6a)
+
+</div>
 <h1>
                     Minhas Redes
 </h1>
