@@ -4,12 +4,7 @@
 ![gif](https://github.com/BrunoVieira1/BrunoVieira1/assets/133697267/03546f2e-a694-49a2-80f2-7793e5684a6a)
 
 </div>
-<h1>
-                    Minhas Redes
-</h1>
-<h2>
-                    instagram: @bbrunovcorrea
-</h2>
+
      
 
 <!--
