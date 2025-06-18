@@ -1,4 +1,4 @@
-
+Tecnico em informatica 4/4 ✔, Engenharia de software 1/8
 <div allign="center">
   
 ![gif](https://github.com/BrunoVieira1/BrunoVieira1/assets/133697267/03546f2e-a694-49a2-80f2-7793e5684a6a)
